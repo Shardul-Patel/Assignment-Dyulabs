@@ -4,4 +4,4 @@
 4. The functions declared are functions for creating a tree, inserting node to tree, freeing the tree and calculating tree height.
 5. Second file is **tree.c** which has all definition of the 4 functions.
 6. Third file is the **main.c** which is the driver code. It asks the user for inserting nodes and calculates the height of tree.
-7. Download all three files in one folder and compile and run **main.c** for results.
+7. Download all three files in one folder and compile and run **main.c** in your preferred code editor.
